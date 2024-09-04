@@ -40,7 +40,6 @@ fun HomerUI() {
     }
 }
 
-
 @Composable
 fun CustomTextViews(text: String, context: Context) {
     Text(color = Color.White,
